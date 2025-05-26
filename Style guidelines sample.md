@@ -1,6 +1,6 @@
 # Empty state guidelines
 
-The EmptyState component is a generic component that gives feedback to an end-user in case there is no data available. Here is the guidance on writing your empty states.
+The `EmptyState` component is a generic component that gives feedback to an end-user in case there is no data available. Here is the guidance on writing your empty states.
 
 ## Content guidelines
 
