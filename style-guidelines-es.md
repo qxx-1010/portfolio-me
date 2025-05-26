@@ -1,16 +1,16 @@
-# EmptyState
+# Empty state guidelines
 
-The EmptyState component is a generic component that gives feedback to an end-user in case there is no data available. Here is some guidance on writing empty states.
+The EmptyState component is a generic component that gives feedback to an end-user in case there is no data available. Here is the guidance on writing your empty states.
 
 ## Content guidelines
 
 - An empty state title should be short, concise, and tell the user about the issue or current situation in one sentence.
 - Don't use punctuation in empty state titles.
-- Provide details when the user needs more contexts to solve the empty state. Explain the solution with straightforward language.
+- Provide details when the user needs more context to solve the empty state. Explain the solution with straightforward language.
 - Keep the details to one or two sentences.
 - Avoid repeating the title in the details.
-- For the action button, make the button label match the action the user will take. Keep the button label to one or two words. Learn more about [Buttons](/design/components/buttons/Button).
-- If a footer is necessary, provide the user with helpful, relevant links such as documentation or support articles. Learn more about [Links](/design/components/typography/Link).
+- For the action button, make the button label match the action the user will take. Keep the button label to one or two words. [Buttons guidelines](/design/components/buttons/Button).
+- If a footer is necessary, provide the user with helpful, relevant links such as documentation or support articles. [Links guidelines](/design/components/typography/Link).
 - Don't apologize in an empty state.
 - If there's an illustration in the empty state, add an `arial-label` for accessibility.
 
@@ -21,7 +21,7 @@ When designing your empty states, consider the following use cases. The `EmptySt
 ### Something missing
 
 #### Scenarios
-- The user hasn't configured or enabled a setting or feature and the data can't be displayed.
+- The user hasn't configured or enabled a setting or feature, and the data can't be displayed.
 
 #### Recommended content structure
 - **Title**: What's missing or what's not configured?
@@ -71,8 +71,8 @@ When designing your empty states, consider the following use cases. The `EmptySt
 ### Create new
 
 #### Scenarios
-- The user visits the page for the first time and no items/data have yet been created.
-- The user needs to select existing item or add, upload, or create item/data.
+- The user visits the page for the first time, and no items/data have yet been created.
+- The user needs to select the existing item or add, upload, or create an item/data.
 
 #### Recommended content structure
 - **Title**: What's the current state? What hasn't been created?
