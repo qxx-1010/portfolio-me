@@ -1,4 +1,4 @@
-# How to add a chatbot
+# How to add a Chatbot to your Zoom account
 
 1. Sign in to the [Zoom web portal](https://zoom.us/signin).
 2. In the left navigation menu, click **AI Management** > **Virtual Agent**.
