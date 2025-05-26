@@ -30,8 +30,7 @@ When designing your empty states, consider the following use cases. The `EmptySt
 - **Footer**: Relevant links such as documentation or support articles, if applicable.
 
 #### Example
-![Missing configuration](../../components-preview-docs-assets/empty-state-missing-configuration-light.webp#light-mode-only)
-![Missing configuration](../../components-preview-docs-assets/empty-state-missing-configuration-dark.webp#dark-mode-only)
+![empty-state-missing-configuration-light-6064fcefd5fe14e417fdc31e6dbefdf2](https://github.com/user-attachments/assets/f35fa83c-27da-4928-8e84-be6632b0519b)
 
 
 ### No result
@@ -49,8 +48,7 @@ When designing your empty states, consider the following use cases. The `EmptySt
 - **Footer**: Relevant links such as documentation or support articles, if applicable.
 
 #### Example
-![Search conditions](../../components-preview-docs-assets/empty-state-search-conditions-light.webp#light-mode-only)
-![Search conditions](../../components-preview-docs-assets/empty-state-search-conditions-dark.webp#dark-mode-only)
+![empty-state-search-conditions-light-5d4e7cb24c1169dc771eda131f959045](https://github.com/user-attachments/assets/dbc94a06-6863-4d62-8694-2317bc66de97)
 
 
 ### Something is wrong
@@ -67,8 +65,7 @@ When designing your empty states, consider the following use cases. The `EmptySt
 - **Footer**: Relevant links such as documentation or support articles, if applicable.
 
 #### Example
-![System error](../../components-preview-docs-assets/empty-state-system-error-light.webp#light-mode-only)
-![System error](../../components-preview-docs-assets/empty-state-system-error-dark.webp#dark-mode-only)
+![empty-state-system-error-light-4f0c2d33bef300745985373d5a1ff510](https://github.com/user-attachments/assets/992d6957-1d04-48bf-b516-b2faa9cacacf)
 
 
 ### Create new
@@ -84,8 +81,7 @@ When designing your empty states, consider the following use cases. The `EmptySt
 - **Footer**: Relevant links such as documentation or support articles, if applicable.
 
 #### Example
-![First time use](../../components-preview-docs-assets/empty-state-first-time-use-light.webp#light-mode-only)
-![First time use](../../components-preview-docs-assets/empty-state-first-time-use-dark.webp#dark-mode-only)
+![empty-state-first-time-use-light-7dd43b3483544f7b4a56b05f4d9cbdf5](https://github.com/user-attachments/assets/260467ab-a681-4c4d-add8-88582a09cba9)
 
 
 ### No permission
@@ -100,5 +96,5 @@ When designing your empty states, consider the following use cases. The `EmptySt
 - **Footer**: Relevant links such as documentation or support articles, if applicable.
 
 #### Example
-![Limited permissions](../../components-preview-docs-assets/empty-state-limited-permission-light.webp#light-mode-only)
-![Limited permissions](../../components-preview-docs-assets/empty-state-limited-permission-dark.webp#dark-mode-only)
+![empty-state-limited-permission-light-dbe23e71709e66a3ef4c0a704476d439](https://github.com/user-attachments/assets/7068ef26-c3e6-44a2-a850-99411c1196c6)
+
