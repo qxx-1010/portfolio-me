@@ -17,17 +17,17 @@ Endpoints:
 
 #### Use this API to send messages from your Chatbot app. 
 
-Follow the [client credentials flow](https://developers.zoom.us/docs/team-chat/installation-and-authentication/) to enable the authorization.
+* Follow the [client credentials flow](https://developers.zoom.us/docs/team-chat/installation-and-authentication/) to enable the authorization.
 
-To authorize your chatbot, make a POST request to the endpoint:
+* To authorize your chatbot, make a POST request to the endpoint:
 https://api.zoom.us/oauth/token?grant_type=client_credentials
 
-For more information about authorizing Chatbots, read the
+* For more information about authorizing Chatbots, read the
 [Chatbot Installation and Authentication documentation](https://developers.zoom.us/docs/team-chat/installation-and-authentication/).
 
-[Scopes](https://developers.zoom.us/docs/integrations/oauth-scopes-overview/): imchat:bot
+* [Scopes](https://developers.zoom.us/docs/integrations/oauth-scopes-overview/): imchat:bot
 
-[Rate Limit Label](https://marketplace.zoom.us/docs/api-reference/rate-limits?_gl=1*butfld*_gcl_au*MTQ3MzMxNzY5LjE3NDM1ODczNTY.*_ga*MjA4MzAwMDA4MC4xNzM0NjA0MDAz*_ga_L8TBF28DDX*czE3NDgyMjQ4MTgkbzYkZzEkdDE3NDgyMjc5OTgkajAkbDAkaDA.#rate-limits):
+* [Rate Limit Label](https://marketplace.zoom.us/docs/api-reference/rate-limits?_gl=1*butfld*_gcl_au*MTQ3MzMxNzY5LjE3NDM1ODczNTY.*_ga*MjA4MzAwMDA4MC4xNzM0NjA0MDAz*_ga_L8TBF28DDX*czE3NDgyMjQ4MTgkbzYkZzEkdDE3NDgyMjc5OTgkajAkbDAkaDA.#rate-limits):
 MEDIUM
 
 ### Body parameters
@@ -80,19 +80,19 @@ If your POST request is successful, you’ll get a response. HTTP status code is
 
 #### Use this API to edit a message sent by your Chatbot app.
 
-After sending a message via the Send Chatbot message API, store the messageId value returned in the API response. You will need this value to edit the associated message using this API.
+* After sending a message via the Send Chatbot message API, store the messageId value returned in the API response. You will need this value to edit the associated message using this API.
 
-Follow the [client credentials flow](https://developers.zoom.us/docs/team-chat/installation-and-authentication/) to enable the authorization.
+* Follow the [client credentials flow](https://developers.zoom.us/docs/team-chat/installation-and-authentication/) to enable the authorization.
 
-To authorize your chatbot, make a POST request to the endpoint:
+* To authorize your chatbot, make a POST request to the endpoint:
 https://api.zoom.us/oauth/token?grant_type=client_credentials
 
-For more information about authorizing Chatbots, read the
+* For more information about authorizing Chatbots, read the
 [Chatbot Installation and Authentication documentation](https://developers.zoom.us/docs/team-chat/installation-and-authentication/).
 
-[Scopes](https://developers.zoom.us/docs/integrations/oauth-scopes-overview/): imchat:bot
+* [Scopes](https://developers.zoom.us/docs/integrations/oauth-scopes-overview/): imchat:bot
 
-[Rate Limit Label](https://marketplace.zoom.us/docs/api-reference/rate-limits?_gl=1*butfld*_gcl_au*MTQ3MzMxNzY5LjE3NDM1ODczNTY.*_ga*MjA4MzAwMDA4MC4xNzM0NjA0MDAz*_ga_L8TBF28DDX*czE3NDgyMjQ4MTgkbzYkZzEkdDE3NDgyMjc5OTgkajAkbDAkaDA.#rate-limits):
+* [Rate Limit Label](https://marketplace.zoom.us/docs/api-reference/rate-limits?_gl=1*butfld*_gcl_au*MTQ3MzMxNzY5LjE3NDM1ODczNTY.*_ga*MjA4MzAwMDA4MC4xNzM0NjA0MDAz*_ga_L8TBF28DDX*czE3NDgyMjQ4MTgkbzYkZzEkdDE3NDgyMjc5OTgkajAkbDAkaDA.#rate-limits):
 MEDIUM
 
 ### Body parameters
@@ -140,17 +140,17 @@ If your PUT request is successful, you’ll get a response. HTTP status code is 
 
 #### Use this API to delete a message sent by your Chatbot app.
 
-Follow the [client credentials flow](https://developers.zoom.us/docs/team-chat/installation-and-authentication/) to enable the authorization.
+* Follow the [client credentials flow](https://developers.zoom.us/docs/team-chat/installation-and-authentication/) to enable the authorization.
 
-To authorize your chatbot, make a POST request to the endpoint:
+* To authorize your chatbot, make a POST request to the endpoint:
 https://api.zoom.us/oauth/token?grant_type=client_credentials
 
-For more information about authorizing Chatbots, read the
+* For more information about authorizing Chatbots, read the
 [Chatbot Installation and Authentication documentation](https://developers.zoom.us/docs/team-chat/installation-and-authentication/).
 
-[Scopes](https://developers.zoom.us/docs/integrations/oauth-scopes-overview/): imchat:bot
+* [Scopes](https://developers.zoom.us/docs/integrations/oauth-scopes-overview/): imchat:bot
 
-[Rate Limit Label](https://marketplace.zoom.us/docs/api-reference/rate-limits?_gl=1*butfld*_gcl_au*MTQ3MzMxNzY5LjE3NDM1ODczNTY.*_ga*MjA4MzAwMDA4MC4xNzM0NjA0MDAz*_ga_L8TBF28DDX*czE3NDgyMjQ4MTgkbzYkZzEkdDE3NDgyMjc5OTgkajAkbDAkaDA.#rate-limits):
+* [Rate Limit Label](https://marketplace.zoom.us/docs/api-reference/rate-limits?_gl=1*butfld*_gcl_au*MTQ3MzMxNzY5LjE3NDM1ODczNTY.*_ga*MjA4MzAwMDA4MC4xNzM0NjA0MDAz*_ga_L8TBF28DDX*czE3NDgyMjQ4MTgkbzYkZzEkdDE3NDgyMjc5OTgkajAkbDAkaDA.#rate-limits):
 MEDIUM
 
 ### Body parameters
