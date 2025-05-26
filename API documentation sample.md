@@ -8,11 +8,6 @@ This documentation includes cURL code samples for POST, PUT, and DELETE Chatbot 
 
 Base URL: https://api.zoom.us/v2 
 
-Endpoints:
--   POST /im/chat/messages
--   PUT /im/chat/messages/{message_id}
--   DELETE /im/chat/messages/{message_id}
-
 ## Send Chatbot messages
 
 #### Use this API to send messages from your Chatbot app. 
