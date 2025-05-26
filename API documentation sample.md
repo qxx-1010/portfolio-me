@@ -80,11 +80,9 @@ If your POST request is successful, you’ll get a response. HTTP status code is
 
 #### Use this API to edit a message sent by your Chatbot app.
 
-After sending a message via the Send Chatbot message API, store the messageId value returned in the API response. You
-will need this value edit the associated message using this API.
+After sending a message via the Send Chatbot message API, store the messageId value returned in the API response. You will need this value to edit the associated message using this API.
 
-Follow the [client credentials flow](https://developers.zoom.us/docs/team-chat/installation-and-authentication/) to
-enable the authorization.
+Follow the [client credentials flow](https://developers.zoom.us/docs/team-chat/installation-and-authentication/) to enable the authorization.
 
 To authorize your chatbot, make a POST request to the endpoint:
 https://api.zoom.us/oauth/token?grant_type=client_credentials
