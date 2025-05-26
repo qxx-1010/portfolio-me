@@ -6,8 +6,9 @@ tasks, pushing notifications, or integrating third-party services with Zoom.
 
 This documentation includes cURL code samples for POST, PUT, and DELETE Chatbot message operations.
 
-Base URL: https://api.zoom.us/v2 Endpoints:
+Base URL: https://api.zoom.us/v2 
 
+Endpoints:
 -   POST /im/chat/messages
 -   PUT /im/chat/messages/{message_id}
 -   DELETE /im/chat/messages/{message_id}
